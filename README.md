@@ -34,7 +34,7 @@ Python: Core programming language used for data analysis and visualization.
 
 Pandas: Data manipulation and preprocessing.
 
-Matplotlib & Seaborn: Data visualization libraries.
+Plotly: Data visualization libraries.
 
 Jupyter Notebook: For interactive data exploration and analysis.
 
